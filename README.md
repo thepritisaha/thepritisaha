@@ -179,7 +179,6 @@ With a strong foundation in **Journalism & Mass Communication** and hands-on exp
 ## 📞 Get In Touch
 
 - 📧 **Email:** [info.pritisaha@gmail.com](mailto:info.pritisaha@gmail.com)
-- 📱 **Phone:** +91 6289863623
 - 🌐 **Website:** [Travel With Priti](https://travelwithpriti.free.nf/)
 - 💼 **LinkedIn:** [Priti Saha](https://www.linkedin.com/in/priti-saha-055a7a34b)
 

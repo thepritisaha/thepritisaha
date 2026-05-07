@@ -163,8 +163,8 @@ With a strong foundation in **Journalism & Mass Communication** and hands-on exp
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.pritisaha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priti-saha-055a7a34b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://travelwithpriti.free.nf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priti-saha-digital-marketer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://thepritisaha.github.io/portfolio-/)
 
 </div>
 
@@ -179,8 +179,8 @@ With a strong foundation in **Journalism & Mass Communication** and hands-on exp
 ## 📞 Get In Touch
 
 - 📧 **Email:** [info.pritisaha@gmail.com](mailto:info.pritisaha@gmail.com)
-- 🌐 **Website:** [Travel With Priti](https://travelwithpriti.free.nf/)
-- 💼 **LinkedIn:** [Priti Saha](https://www.linkedin.com/in/priti-saha-055a7a34b)
+- 🌐 **Website:** [Travel With Priti](https://thepritisaha.github.io/portfolio-/)
+- 💼 **LinkedIn:** [Priti Saha](https://www.linkedin.com/in/priti-saha-digital-marketer/)
 
 ---
 
